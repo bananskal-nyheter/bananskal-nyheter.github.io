@@ -1,0 +1,8 @@
+title: Bananskal Nyheter
+email: aaargh
+description: >-
+  Sveriges minsta nyhetsförmedling.
+baseurl: "" 
+url: "https://bananskal-nyheter.github.io"
+
+theme: minima
